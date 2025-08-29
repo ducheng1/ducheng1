@@ -8,13 +8,16 @@ I'm a frontend developer at work, but full-stack at home :smile: Also a video up
 
 ### :camel: Languages and tools
 [![Workflows](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,git,pnpm,vite,vue,nuxt,pinia,react,next,svelte,scss,tailwind,nestjs,prisma,golang,mysql,redis&theme=light)](https://skillicons.dev)
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=ducheng1&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 <br />
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ducheng1&size_weight=0.5&count_weight=0.5&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+### :rocket: Github Stats
+<div style="display: flex">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducheng1&size_weight=0.5&count_weight=0.5&layout=compact&theme=vue" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ducheng1&theme=vue" /></a>
+</div>
 
 ### :four_leaf_clover: Workflows
 [![Workflows](https://skillicons.dev/icons?i=vscode,webstorm,pr,ae,ps,docker,windows,vercel&theme=light)](https://skillicons.dev)
 
-### :+1: My contribution graph
+### :bar_chart: My contribution graph
 [![Du_Cheng's github contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=ducheng1&bg_color=ffffff&color=000000&line=1677ff&point=5cabff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
