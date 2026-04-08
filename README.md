@@ -12,8 +12,8 @@ I'm a frontend developer at work, but full-stack at home :smile: Also a video up
 
 ### :rocket: Github Stats
 <div style="display: flex">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducheng1&size_weight=0.5&count_weight=0.5&layout=compact&theme=vue" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ducheng1&theme=vue" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="./profiles/top-langs.svg" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="./profiles/stats.svg" /></a>
 </div>
 
 ### :four_leaf_clover: Workflows
